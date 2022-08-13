@@ -149,3 +149,8 @@ a {
 a:hover, a:focus, a:active {
   color: #824027;
 }
+
+html {
+  visibility: visible;
+  opacity: 1;
+}
