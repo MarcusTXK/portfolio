@@ -1,0 +1,48 @@
+title = "Marcus Tang Portfolio"
+baseURL = "https://example.com/"
+theme = "hugo-resume"
+languageCode = "en-us"
+PygmentsCodeFences = true
+PygmentsCodeFencesGuessSyntax = true
+PygmentsStyle = "monokai"
+enableGitInfo = false
+
+[params]
+address = "Singapore"
+email = "txk.marcus@gmail.com"
+favicon = "/favicon.ico"
+firstName = "Marcus"
+lastName = "Tang"
+phone = "98787393"
+profileImage = "img/profile.png"
+showEducation = true
+showExperience = true
+showOpenSource = false
+showProjects = false
+showPublications = false
+showQr = false
+showSkills = true
+
+[params.google]
+
+[params.google.analytics]
+trackerID = "XX-123446-01"
+
+[[params.handles]]
+link = "https://www.linkedin.com/in/MarcusTXK/"
+name = "LinkedIn"
+
+[[params.handles]]
+link = "https://github.com/MarcusTXK/"
+name = "GitHub"
+
+[[params.handles]]
+link = "mailto:txk.marcus@gmail.com"
+name = "Email"
+icon = "envelope"
+
+[outputs]
+home = ["HTML", "JSON"]
+
+[taxonomies]
+tag = "tags"
