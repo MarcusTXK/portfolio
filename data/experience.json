@@ -1,0 +1,20 @@
+[
+    {
+        "role":"Backend Engineer Internship",
+        "company":"TikTok Pte Ltd",
+        "summary":"- Developed data pipelines and analytics platforms for e-commerce applications as part of the Magellan Data Insights team using Go\n- Designed and developed a middleware named “Ironman”, that acts as a disaster recovery module to help Data Insights services increase their uptime, successfully mitigating 76.2% and 91.99% of errors over two incidents\n- Designed and developed a real time logistic dashboard that aims to aid businesses monitoring and analytics of data",
+        "range":"Singapore | May 2022 – Aug 2022"
+    },
+    {
+        "role":"Frontend Developer Internship [[Testimonial](https://drive.google.com/file/d/1XlGplVyCjWY_DmTdaL0BGwvsOLjPwp5h/view)]",
+        "company":"9cv9 Pte Ltd",
+        "summary":"- Developed from scratch and launched a new flagship product, UrbanCV, an online CV builder website optimised for performance and Search Engine Optimisation (SEO), with a Google page insight score of 97 out of 100, using NextJS, Redux-Saga and Material-UI\n - Implemented translation capabilities to UrbanCV for English, Vietnamese and Indonesian to help users of different target markets\n - Developed fully customisable multi-page CVs using NextJS and Sass and a CV downloader supporting .JPEG, .SVG and .PDF formats",
+        "range":"Indonesia | May 2021 - Aug 2021 "
+    },
+    {
+        "role":"Software Engineer Internship [[Testimonial](https://drive.google.com/file/d/18KCNf9ZLYPKb2lgY4Rnr6RoC4D6LNVV7/view)]",
+        "company":"CrimsonLogic Pte Ltd",
+        "summary":"- Developed CrimsonLogic's SMART Java digital government platform as a Full Stack Developer, migrating from an old .NET version to create a base for future projects to easily build on and scale according to client requests, using Spring, MariaDB and React\n - Designed and developed a Service Content Page with a search feature for users to look up services using React and Elasticsearch \n - Revamped the Business Workflow module to make it dynamic using Activiti 6, allowing admins to easily update the workflow\n - Designed and created a Document Generation module to automatically generate pdf certificates with user data using Spring",
+        "range":"Singapore | Nov 2019 - Jun 2020"
+    }
+]
