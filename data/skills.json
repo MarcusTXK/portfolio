@@ -1,35 +1,34 @@
 [
   {
       "grouping":"Languages",
-      "skills":[ "Java","TypeScript","JavaScript","Go","HTML","CSS"]
+      "skills":["Java","TypeScript","JavaScript","Go","HTML","CSS"]
   },
   {
     "grouping":"Frameworks & Libraries",
-    "skills":[ "Spring","React","NextJS","Redux","Recoil","NodeJS","Express","NestJS"]
+    "skills":["React","NextJS","Redux","Recoil","Spring","NodeJS","Express","NestJS","Elasticsearch"]
 },
   {
       "grouping":"Databases, ORM Frameworks & Database Version Control",
       "skills":[
         {"name":"MariaDB","icon":"msql_server"},
         {"name":"PostgreSQL","icon":"database"},
-        "MongoDB",
         {"name":"Sequelize"},
         {"name":"Liquibase"},
-        {"name":"Knex.js"}
+        {"name":"KnexJS"}
       ]
-  },
-  {
-    "grouping":"Tools",
-    "skills":[ "git","Elasticsearch","Activiti","Postman"]
   },
   {
     "grouping":"Containers & Cloud",
       "skills":[
-          {"name":"Docker","link":"https://docker.com"},
-          {"name":"AWS","link":"https://aws.amazon.com"},
-          {"name":"Google Cloud","link":"https://cloud.google.com"},
-          {"name":"Heroku","link":"https://www.heroku.com/"},          
-          {"name":"Netlify","link":"https://www.netlify.com/"}
+          {"name":"Docker"},
+          {"name":"AWS"},
+          {"name":"Google Cloud"},
+          {"name":"Heroku"},          
+          {"name":"Netlify"}
       ]
+  },
+  {
+    "grouping":"Tools",
+    "skills":["git","Activiti","Postman","Grafana"]
   }
 ]

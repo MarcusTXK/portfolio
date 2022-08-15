@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rollup on Marcus Tang Portfolio</title>
+    <link>https://marcustxk.com/tags/rollup/</link>
+    <description>Recent content in Rollup on Marcus Tang Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://marcustxk.com/tags/rollup/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1st Place, 18th SoC Term Project Showcase (STePS)</title>
+      <link>https://marcustxk.com/awards/18th-steps/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://marcustxk.com/awards/18th-steps/</guid>
+      <description>Description Source Academy is an open-source immersive online experiential environment for learning programming, developed in the School of Computing at the National University of Singapore, currently headed by the Source Academy 2021 leadership team.
+Every year, freshmen in the School of Computing will take CS1101S, a module that introduces the concepts of programming and computational problem solving, and is the first and foremost introductory module to computing. This module’s course material is mainly conveyed through the Source Academy.</description>
+    </item>
+    
+  </channel>
+</rss>

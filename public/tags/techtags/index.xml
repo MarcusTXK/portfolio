@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>techtags on Marcus Tang Portfolio</title>
+    <link>https://marcustxk.com/tags/techtags/</link>
+    <description>Recent content in techtags on Marcus Tang Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 13 Aug 2022 22:54:55 +0800</lastBuildDate><atom:link href="https://marcustxk.com/tags/techtags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Swappee</title>
+      <link>https://marcustxk.com/projects/creations/swappee/</link>
+      <pubDate>Sat, 13 Aug 2022 22:54:55 +0800</pubDate>
+      
+      <guid>https://marcustxk.com/projects/creations/swappee/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

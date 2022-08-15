@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Express on Marcus Tang Portfolio</title>
+    <link>https://marcustxk.com/tags/express/</link>
+    <description>Recent content in Express on Marcus Tang Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://marcustxk.com/tags/express/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>“Top 8 Teams” Award Winner, Hack&amp;Roll 2022</title>
+      <link>https://marcustxk.com/awards/hack-n-roll-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://marcustxk.com/awards/hack-n-roll-2022/</guid>
+      <description>Description Hack&amp;amp;Roll is Singapore&amp;rsquo;s largest student-run hackathon, with 532 participants in Hack&amp;amp;Roll 2022. I was inspired to improve NUSMods, a student-run open source project allowing students to plan timetables and modules, as its current module review system was under utilised by students as it was cumbersome and slow to write long reviews.
+Solution Leading a team of 4 and in 24 hours, we came up with Ratings, an alternative review system inspired by Glassdoor that aims to encourage more students to provide feedback by streamlining the process as well as allowing prospective students of a module to better understand the module easily.</description>
+    </item>
+    
+  </channel>
+</rss>

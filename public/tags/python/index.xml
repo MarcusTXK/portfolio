@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>python on Marcus Tang Portfolio</title>
+    <title>Python on Marcus Tang Portfolio</title>
     <link>https://marcustxk.com/tags/python/</link>
-    <description>Recent content in python on Marcus Tang Portfolio</description>
+    <description>Recent content in Python on Marcus Tang Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Feb 2018 12:41:05 -0500</lastBuildDate><atom:link href="https://marcustxk.com/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://marcustxk.com/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>4th Place, Ninja Van Code Dojo Hackathon 2022</title>
+      <link>https://marcustxk.com/awards/ninja-van-code-dojo-2022/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://marcustxk.com/awards/ninja-van-code-dojo-2022/</guid>
+      <description>Description Code Dojo was a 36 hour Hackathon where my team of 4 worked to innovate and prototype ideas that can improve logistics and Ninja Van&amp;rsquo;s operations and service quality. Ninja Van is a leading courier company in Singapore and across Southeast Asia, with more than 67,000 staff and delivery personnel and handles around 2 million parcels a day across Southeast Asia.
+Solution Ninja Scheduler is the bot designed for busy people who are unavailable to receive their package on the actual delivery day.</description>
+    </item>
+    
     <item>
       <title>BOSH release for Bamboo &amp; Remote Agents</title>
       <link>https://marcustxk.com/projects/creations/bosh-agents/</link>

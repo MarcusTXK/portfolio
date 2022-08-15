@@ -17,13 +17,12 @@
     </item>
     
     <item>
-      <title>Organically DevOps: Building Quality and Security into the Software Supply Chain at Liberty Mutual</title>
-      <link>https://marcustxk.com/publications/alldaydevops/</link>
-      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      <title>Swappee</title>
+      <link>https://marcustxk.com/projects/creations/swappee/</link>
+      <pubDate>Sat, 13 Aug 2022 22:54:55 +0800</pubDate>
       
-      <guid>https://marcustxk.com/publications/alldaydevops/</guid>
-      <description>This talk looked at Liberty Mutual’s transformation to Continuous Integration, Continuous Delivery, and DevOps. For a large, heavily regulated industry, this task can not only be daunting, but viewed by many as impossible. Often, organizations try to reduce the friction through micro-fixes, but Eddie’s team asked how to change the culture to reduce the friction and concluded with the following final points:
-Don’t mandate DevOps. Give employees the chance to master their discipline with examples to set and follow.</description>
+      <guid>https://marcustxk.com/projects/creations/swappee/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -42,6 +41,45 @@ Don’t mandate DevOps. Give employees the chance to master their discipline wit
       
       <guid>https://marcustxk.com/projects/contributions/schema-org/</guid>
       <description>While adding Structured Data to a client&amp;rsquo;s website I found some example JSON that was invalid. Simple contribution to cleanup the user documentation providing syntactically valid JSON documents.</description>
+    </item>
+    
+    <item>
+      <title>4th Place, Ninja Van Code Dojo Hackathon 2022</title>
+      <link>https://marcustxk.com/awards/ninja-van-code-dojo-2022/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://marcustxk.com/awards/ninja-van-code-dojo-2022/</guid>
+      <description>Description Code Dojo was a 36 hour Hackathon where my team of 4 worked to innovate and prototype ideas that can improve logistics and Ninja Van&amp;rsquo;s operations and service quality. Ninja Van is a leading courier company in Singapore and across Southeast Asia, with more than 67,000 staff and delivery personnel and handles around 2 million parcels a day across Southeast Asia.
+Solution Ninja Scheduler is the bot designed for busy people who are unavailable to receive their package on the actual delivery day.</description>
+    </item>
+    
+    <item>
+      <title>“Top 8 Teams” Award Winner, Hack&amp;Roll 2022</title>
+      <link>https://marcustxk.com/awards/hack-n-roll-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://marcustxk.com/awards/hack-n-roll-2022/</guid>
+      <description>Description Hack&amp;amp;Roll is Singapore&amp;rsquo;s largest student-run hackathon, with 532 participants in Hack&amp;amp;Roll 2022. I was inspired to improve NUSMods, a student-run open source project allowing students to plan timetables and modules, as its current module review system was under utilised by students as it was cumbersome and slow to write long reviews.
+Solution Leading a team of 4 and in 24 hours, we came up with Ratings, an alternative review system inspired by Glassdoor that aims to encourage more students to provide feedback by streamlining the process as well as allowing prospective students of a module to better understand the module easily.</description>
+    </item>
+    
+    <item>
+      <title>1st Place, 18th SoC Term Project Showcase (STePS)</title>
+      <link>https://marcustxk.com/awards/18th-steps/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://marcustxk.com/awards/18th-steps/</guid>
+      <description>Description Source Academy is an open-source immersive online experiential environment for learning programming, developed in the School of Computing at the National University of Singapore, currently headed by the Source Academy 2021 leadership team.
+Every year, freshmen in the School of Computing will take CS1101S, a module that introduces the concepts of programming and computational problem solving, and is the first and foremost introductory module to computing. This module’s course material is mainly conveyed through the Source Academy.</description>
+    </item>
+    
+    <item>
+      <title>“Top 8 Teams” Award Winner, Hack&amp;Roll 2021</title>
+      <link>https://marcustxk.com/awards/hack-n-roll-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://marcustxk.com/awards/hack-n-roll-2021/</guid>
+      <description>Description Hack&amp;amp;Roll is Singapore&amp;rsquo;s largest student-run hackathon, with 473 participants in Hack&amp;amp;Roll 2021. We often come across instances where we have to arrange, with friends, a timing to meetup, be it for a group project or a leisure activity. It is often troublesome to come into an agreement of a common free time slot. Therefore, it is convenient to have Meetups, a planner modification for NUSMods, a student-run open source project allowing students to plan timetables and modules.</description>
     </item>
     
     <item>
