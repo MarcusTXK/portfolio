@@ -41,6 +41,11 @@ link = "mailto:txk.marcus@gmail.com"
 name = "Email"
 icon = "envelope"
 
+[[params.handles]]
+link = "https://drive.google.com/file/d/1nTfExFNAUdesfciU1Y5PNhnWyE8Ra6UH/view?usp=sharing"
+name = "Resume"
+icon = "file-alt"
+
 [outputs]
 home = ["HTML", "JSON"]
 
