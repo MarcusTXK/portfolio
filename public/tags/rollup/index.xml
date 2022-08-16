@@ -17,5 +17,15 @@
 Every year, freshmen in the School of Computing will take CS1101S, a module that introduces the concepts of programming and computational problem solving, and is the first and foremost introductory module to computing. This module’s course material is mainly conveyed through the Source Academy.</description>
     </item>
     
+    <item>
+      <title>Source Academy Module System</title>
+      <link>https://marcustxk.com/projects/source-academy-module-system/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://marcustxk.com/projects/source-academy-module-system/</guid>
+      <description>Description Source Academy is an open-source immersive online experiential environment for learning programming, developed in the School of Computing at the National University of Singapore, currently headed by the Source Academy 2021 leadership team.
+Every year, freshmen in the School of Computing will take CS1101S, a module that introduces the concepts of programming and computational problem solving, and is the first and foremost introductory module to computing. This module’s course material is mainly conveyed through the Source Academy.</description>
+    </item>
+    
   </channel>
 </rss>

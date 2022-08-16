@@ -5,14 +5,15 @@
     <link>https://marcustxk.com/tags/spring/</link>
     <description>Recent content in Spring on Marcus Tang Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://marcustxk.com/tags/spring/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://marcustxk.com/tags/spring/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Atlassian Marketplace Plugins</title>
-      <link>https://marcustxk.com/projects/creations/marketplace/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Swappee</title>
+      <link>https://marcustxk.com/projects/swappee/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://marcustxk.com/projects/creations/marketplace/</guid>
-      <description>Multiple plugins used by thousands of teams that provide enhanced functionality of Atlassian’s core products (primarily JIRA and Bamboo) to enrich CI/CD capabilities, DevOps automation, or productivity. Functionality spans user interface, web services and persistence.</description>
+      <guid>https://marcustxk.com/projects/swappee/</guid>
+      <description>Description A platform allowing users in a community to list items online to trade, facilitating the trading process using Spring, React and Elasticsearch Users can search/filter for items by name, user, or items the user has previously liked Emails will be sent to the user if an item matching their preference was uploaded Users can make trade requests, accept, and review other users upon trading Item cards in each user’s inventory will be swapped upon trading and each item will have a history log on its previous trades and owners </description>
     </item>
     
   </channel>

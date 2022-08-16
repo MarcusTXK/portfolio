@@ -6,7 +6,17 @@
     <description>Recent content in Heroku on Marcus Tang Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://marcustxk.com/tags/heroku/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://marcustxk.com/tags/heroku/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google Developer Student Club - Project Siew Dai</title>
+      <link>https://marcustxk.com/projects/project-siew-dai/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://marcustxk.com/projects/project-siew-dai/</guid>
+      <description>Description Diabetes Singapore (DS) is a non-profit organisation focused on raising awareness and providing education, counselling and support to people with diabetes, their families and the community in order to empower them to lead a healthy and productive life. Today, DS runs two clinics and two mobile bus clinics that serve to provide care and education dedicated to Diabetes in Singapore.
+Problem Statement DS currently lacks a database and a corresponding database management system.</description>
+    </item>
+    
     <item>
       <title>4th Place, Ninja Van Code Dojo Hackathon 2022</title>
       <link>https://marcustxk.com/awards/ninja-van-code-dojo-2022/</link>

@@ -8,39 +8,41 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 10 Feb 2018 18:56:13 -0500</lastBuildDate><atom:link href="https://marcustxk.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Atlassian Deployment Triggers</title>
-      <link>https://marcustxk.com/projects/contributions/deploy-triggers/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Google Developer Student Club - Project Sight Words [Ongoing]</title>
+      <link>https://marcustxk.com/projects/project-sight-words/</link>
+      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://marcustxk.com/projects/contributions/deploy-triggers/</guid>
-      <description>Addressed pretty significant page load performance issue founde in larger deployments. Eliminates uses of intensive backend query, replacing it with an asynchronous API call against a lucene index. This change reduces page load from from 2+ minutes to nearly instant, with an incredibly responsive UI.</description>
+      <guid>https://marcustxk.com/projects/project-sight-words/</guid>
+      <description>Description In collaboration with Dyslexic Association of Singapore (DAS), Project Sight Words aims to make learning fun for dyslexic students with an online learning platform that is engaging and customized to their learning needs by using a multi-sensory approach. The platform will have two fronts, a progressive web app to teach students how to read and write through interactive learning, as well as a teacher management portal to help educators manage their lessons and students progress more conveniently.</description>
     </item>
     
     <item>
       <title>Swappee</title>
-      <link>https://marcustxk.com/projects/creations/swappee/</link>
-      <pubDate>Sat, 13 Aug 2022 22:54:55 +0800</pubDate>
+      <link>https://marcustxk.com/projects/swappee/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://marcustxk.com/projects/creations/swappee/</guid>
-      <description></description>
+      <guid>https://marcustxk.com/projects/swappee/</guid>
+      <description>Description A platform allowing users in a community to list items online to trade, facilitating the trading process using Spring, React and Elasticsearch Users can search/filter for items by name, user, or items the user has previously liked Emails will be sent to the user if an item matching their preference was uploaded Users can make trade requests, accept, and review other users upon trading Item cards in each user’s inventory will be swapped upon trading and each item will have a history log on its previous trades and owners </description>
     </item>
     
     <item>
-      <title>Added Docker Build Status Badge to shields.io</title>
-      <link>https://marcustxk.com/projects/contributions/shields-docker/</link>
-      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
+      <title>Google Developer Student Club - Project Siew Dai</title>
+      <link>https://marcustxk.com/projects/project-siew-dai/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://marcustxk.com/projects/contributions/shields-docker/</guid>
-      <description>Shields.io is a massive library of badges that can be inserted into project README&amp;rsquo;s or websites displaying various statuses (code coverage, health, version, etc). Support for docker was missing the current build health, and was a pretty trivial addition.</description>
+      <guid>https://marcustxk.com/projects/project-siew-dai/</guid>
+      <description>Description Diabetes Singapore (DS) is a non-profit organisation focused on raising awareness and providing education, counselling and support to people with diabetes, their families and the community in order to empower them to lead a healthy and productive life. Today, DS runs two clinics and two mobile bus clinics that serve to provide care and education dedicated to Diabetes in Singapore.
+Problem Statement DS currently lacks a database and a corresponding database management system.</description>
     </item>
     
     <item>
-      <title>Schema.org Structured Data documentation fixes</title>
-      <link>https://marcustxk.com/projects/contributions/schema-org/</link>
-      <pubDate>Tue, 07 Jan 2020 17:08:21 +0000</pubDate>
+      <title>gitGud</title>
+      <link>https://marcustxk.com/projects/git-gud/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://marcustxk.com/projects/contributions/schema-org/</guid>
-      <description>While adding Structured Data to a client&amp;rsquo;s website I found some example JSON that was invalid. Simple contribution to cleanup the user documentation providing syntactically valid JSON documents.</description>
+      <guid>https://marcustxk.com/projects/git-gud/</guid>
+      <description>Description gitGud is a desktop application for storing and managing your friends&amp;rsquo; gaming information and schedules. It is dedicated to gamers like you and provides a gamer-themed experience with a focus on increasing your efficiency through its typing-based interface.
+Previously, keeping track of all of yours friends&amp;rsquo; gaming information and schedules can be difficult and time-consuming. However, with gitGud, there is no need to get tilted (frustrated) by this anymore as gitGud provides you with a convenient platform to manage essential gaming information of your fellow gamer friends.</description>
     </item>
     
     <item>
@@ -74,6 +76,16 @@ Every year, freshmen in the School of Computing will take CS1101S, a module that
     </item>
     
     <item>
+      <title>Source Academy Module System</title>
+      <link>https://marcustxk.com/projects/source-academy-module-system/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://marcustxk.com/projects/source-academy-module-system/</guid>
+      <description>Description Source Academy is an open-source immersive online experiential environment for learning programming, developed in the School of Computing at the National University of Singapore, currently headed by the Source Academy 2021 leadership team.
+Every year, freshmen in the School of Computing will take CS1101S, a module that introduces the concepts of programming and computational problem solving, and is the first and foremost introductory module to computing. This module’s course material is mainly conveyed through the Source Academy.</description>
+    </item>
+    
+    <item>
       <title>“Top 8 Teams” Award Winner, Hack&amp;Roll 2021</title>
       <link>https://marcustxk.com/awards/hack-n-roll-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
@@ -83,12 +95,12 @@ Every year, freshmen in the School of Computing will take CS1101S, a module that
     </item>
     
     <item>
-      <title>BOSH release for Bamboo &amp; Remote Agents</title>
-      <link>https://marcustxk.com/projects/creations/bosh-agents/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      <title>React With Redux Projects</title>
+      <link>https://marcustxk.com/projects/react-with-redux-projects/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://marcustxk.com/projects/creations/bosh-agents/</guid>
-      <description>BOSH (Bosh Outer SHell) &amp;ldquo;&amp;hellip; is an open source tool for release engineering, deployment, lifecycle management, and monitoring of distributed systems.&amp;rdquo; And it&amp;rsquo;s amazingly powerful. This examples uses BOSH to provision an Alassian vendor app running on JDK along with the support Postgres database and agents to support it. The releases manages the health of services and will automatically provision, start/stop processes across the various services.</description>
+      <guid>https://marcustxk.com/projects/react-with-redux-projects/</guid>
+      <description>React With Redux Projects Various react projects developed during my journey of learning React and Redux: Streams A simple streaming website that allows a user to stream as well as users to watch streams created by other users. When signed in (via Google OAuth 2.0), a user can create a stream. Only the owner of a stream can edit or delete their own stream. Users can stream their screen via Open Broadcaster Software (OBS) to the created stream.</description>
     </item>
     
     <item>
@@ -99,24 +111,6 @@ Every year, freshmen in the School of Computing will take CS1101S, a module that
       <guid>https://marcustxk.com/blog/force-ssl/</guid>
       <description>Intro Doesn&amp;rsquo;t matter whether it&amp;rsquo;s a CakePHP app for a client, your own personal CMS, or any other web based application. If your passing around passwords or other sensitive info you should really implement SSL. SSL provides 2 main perks to your visitors.
 First it encrypts all communication that flies across the web. This prevents curious or devious billies from getting your secrets. Secondly it ensures to the user that your server is in fact who it claims, and not a nasty &amp;lsquo;man in the middle&amp;quot; attack.</description>
-    </item>
-    
-    <item>
-      <title>Atlassian Marketplace Plugins</title>
-      <link>https://marcustxk.com/projects/creations/marketplace/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://marcustxk.com/projects/creations/marketplace/</guid>
-      <description>Multiple plugins used by thousands of teams that provide enhanced functionality of Atlassian’s core products (primarily JIRA and Bamboo) to enrich CI/CD capabilities, DevOps automation, or productivity. Functionality spans user interface, web services and persistence.</description>
-    </item>
-    
-    <item>
-      <title>Docker image for Bitbucket CI/CD Pipelines  &#34;shipit&#34;</title>
-      <link>https://marcustxk.com/projects/creations/docker-marketplace/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://marcustxk.com/projects/creations/docker-marketplace/</guid>
-      <description>Provides required dependencies and additional utilities to simplify and codify the process of building, testing and delivering Atlassian plugins all the way to the live marketplace. Executes integration/AUT level tests against all stated compatible versions for the productUploads generated artifact to Atlassian marketplaceProvides corresponding metadata indicating version, release notes, and compatibility</description>
     </item>
     
     <item>

@@ -6,41 +6,24 @@
     <description>Recent content in Java on Marcus Tang Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Feb 2018 12:41:05 -0500</lastBuildDate><atom:link href="https://marcustxk.com/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://marcustxk.com/tags/java/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Atlassian Deployment Triggers</title>
-      <link>https://marcustxk.com/projects/contributions/deploy-triggers/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Swappee</title>
+      <link>https://marcustxk.com/projects/swappee/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://marcustxk.com/projects/contributions/deploy-triggers/</guid>
-      <description>Addressed pretty significant page load performance issue founde in larger deployments. Eliminates uses of intensive backend query, replacing it with an asynchronous API call against a lucene index. This change reduces page load from from 2+ minutes to nearly instant, with an incredibly responsive UI.</description>
+      <guid>https://marcustxk.com/projects/swappee/</guid>
+      <description>Description A platform allowing users in a community to list items online to trade, facilitating the trading process using Spring, React and Elasticsearch Users can search/filter for items by name, user, or items the user has previously liked Emails will be sent to the user if an item matching their preference was uploaded Users can make trade requests, accept, and review other users upon trading Item cards in each user’s inventory will be swapped upon trading and each item will have a history log on its previous trades and owners </description>
     </item>
     
     <item>
-      <title>BOSH release for Bamboo &amp; Remote Agents</title>
-      <link>https://marcustxk.com/projects/creations/bosh-agents/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      <title>gitGud</title>
+      <link>https://marcustxk.com/projects/git-gud/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://marcustxk.com/projects/creations/bosh-agents/</guid>
-      <description>BOSH (Bosh Outer SHell) &amp;ldquo;&amp;hellip; is an open source tool for release engineering, deployment, lifecycle management, and monitoring of distributed systems.&amp;rdquo; And it&amp;rsquo;s amazingly powerful. This examples uses BOSH to provision an Alassian vendor app running on JDK along with the support Postgres database and agents to support it. The releases manages the health of services and will automatically provision, start/stop processes across the various services.</description>
-    </item>
-    
-    <item>
-      <title>Atlassian Marketplace Plugins</title>
-      <link>https://marcustxk.com/projects/creations/marketplace/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://marcustxk.com/projects/creations/marketplace/</guid>
-      <description>Multiple plugins used by thousands of teams that provide enhanced functionality of Atlassian’s core products (primarily JIRA and Bamboo) to enrich CI/CD capabilities, DevOps automation, or productivity. Functionality spans user interface, web services and persistence.</description>
-    </item>
-    
-    <item>
-      <title>Docker image for Bitbucket CI/CD Pipelines  &#34;shipit&#34;</title>
-      <link>https://marcustxk.com/projects/creations/docker-marketplace/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://marcustxk.com/projects/creations/docker-marketplace/</guid>
-      <description>Provides required dependencies and additional utilities to simplify and codify the process of building, testing and delivering Atlassian plugins all the way to the live marketplace. Executes integration/AUT level tests against all stated compatible versions for the productUploads generated artifact to Atlassian marketplaceProvides corresponding metadata indicating version, release notes, and compatibility</description>
+      <guid>https://marcustxk.com/projects/git-gud/</guid>
+      <description>Description gitGud is a desktop application for storing and managing your friends&amp;rsquo; gaming information and schedules. It is dedicated to gamers like you and provides a gamer-themed experience with a focus on increasing your efficiency through its typing-based interface.
+Previously, keeping track of all of yours friends&amp;rsquo; gaming information and schedules can be difficult and time-consuming. However, with gitGud, there is no need to get tilted (frustrated) by this anymore as gitGud provides you with a convenient platform to manage essential gaming information of your fellow gamer friends.</description>
     </item>
     
   </channel>

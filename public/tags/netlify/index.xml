@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Netlify on Marcus Tang Portfolio</title>
+    <link>https://marcustxk.com/tags/netlify/</link>
+    <description>Recent content in Netlify on Marcus Tang Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://marcustxk.com/tags/netlify/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google Developer Student Club - Project Sight Words [Ongoing]</title>
+      <link>https://marcustxk.com/projects/project-sight-words/</link>
+      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://marcustxk.com/projects/project-sight-words/</guid>
+      <description>Description In collaboration with Dyslexic Association of Singapore (DAS), Project Sight Words aims to make learning fun for dyslexic students with an online learning platform that is engaging and customized to their learning needs by using a multi-sensory approach. The platform will have two fronts, a progressive web app to teach students how to read and write through interactive learning, as well as a teacher management portal to help educators manage their lessons and students progress more conveniently.</description>
+    </item>
+    
+    <item>
+      <title>Google Developer Student Club - Project Siew Dai</title>
+      <link>https://marcustxk.com/projects/project-siew-dai/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://marcustxk.com/projects/project-siew-dai/</guid>
+      <description>Description Diabetes Singapore (DS) is a non-profit organisation focused on raising awareness and providing education, counselling and support to people with diabetes, their families and the community in order to empower them to lead a healthy and productive life. Today, DS runs two clinics and two mobile bus clinics that serve to provide care and education dedicated to Diabetes in Singapore.
+Problem Statement DS currently lacks a database and a corresponding database management system.</description>
+    </item>
+    
+  </channel>
+</rss>

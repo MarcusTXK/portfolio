@@ -6,40 +6,193 @@
     <description>Recent content in Tags on Marcus Tang Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Aug 2022 22:54:55 +0800</lastBuildDate><atom:link href="https://marcustxk.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://marcustxk.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>in</title>
-      <link>https://marcustxk.com/tags/in/</link>
-      <pubDate>Sat, 13 Aug 2022 22:54:55 +0800</pubDate>
+      <title>AWS</title>
+      <link>https://marcustxk.com/tags/aws/</link>
+      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://marcustxk.com/tags/in/</guid>
+      <guid>https://marcustxk.com/tags/aws/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>techtags</title>
-      <link>https://marcustxk.com/tags/techtags/</link>
-      <pubDate>Sat, 13 Aug 2022 22:54:55 +0800</pubDate>
+      <title>KnexJS</title>
+      <link>https://marcustxk.com/tags/knexjs/</link>
+      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://marcustxk.com/tags/techtags/</guid>
+      <guid>https://marcustxk.com/tags/knexjs/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>used</title>
-      <link>https://marcustxk.com/tags/used/</link>
-      <pubDate>Sat, 13 Aug 2022 22:54:55 +0800</pubDate>
+      <title>NestJS</title>
+      <link>https://marcustxk.com/tags/nestjs/</link>
+      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://marcustxk.com/tags/used/</guid>
+      <guid>https://marcustxk.com/tags/nestjs/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>website</title>
-      <link>https://marcustxk.com/tags/website/</link>
-      <pubDate>Sat, 13 Aug 2022 22:54:55 +0800</pubDate>
+      <title>Netlify</title>
+      <link>https://marcustxk.com/tags/netlify/</link>
+      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://marcustxk.com/tags/website/</guid>
+      <guid>https://marcustxk.com/tags/netlify/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PostgreSQL</title>
+      <link>https://marcustxk.com/tags/postgresql/</link>
+      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://marcustxk.com/tags/postgresql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>React</title>
+      <link>https://marcustxk.com/tags/react/</link>
+      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://marcustxk.com/tags/react/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recoil</title>
+      <link>https://marcustxk.com/tags/recoil/</link>
+      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://marcustxk.com/tags/recoil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Storybook</title>
+      <link>https://marcustxk.com/tags/storybook/</link>
+      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://marcustxk.com/tags/storybook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Typescript</title>
+      <link>https://marcustxk.com/tags/typescript/</link>
+      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://marcustxk.com/tags/typescript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elasticsearch</title>
+      <link>https://marcustxk.com/tags/elasticsearch/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://marcustxk.com/tags/elasticsearch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Java</title>
+      <link>https://marcustxk.com/tags/java/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://marcustxk.com/tags/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Liquibase</title>
+      <link>https://marcustxk.com/tags/liquibase/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://marcustxk.com/tags/liquibase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MariaDB</title>
+      <link>https://marcustxk.com/tags/mariadb/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://marcustxk.com/tags/mariadb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NextJS</title>
+      <link>https://marcustxk.com/tags/nextjs/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://marcustxk.com/tags/nextjs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Redux</title>
+      <link>https://marcustxk.com/tags/redux/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://marcustxk.com/tags/redux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spring</title>
+      <link>https://marcustxk.com/tags/spring/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://marcustxk.com/tags/spring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Express</title>
+      <link>https://marcustxk.com/tags/express/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://marcustxk.com/tags/express/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heroku</title>
+      <link>https://marcustxk.com/tags/heroku/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://marcustxk.com/tags/heroku/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NodeJS</title>
+      <link>https://marcustxk.com/tags/nodejs/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://marcustxk.com/tags/nodejs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sequelize</title>
+      <link>https://marcustxk.com/tags/sequelize/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://marcustxk.com/tags/sequelize/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JavaFX</title>
+      <link>https://marcustxk.com/tags/javafx/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://marcustxk.com/tags/javafx/</guid>
       <description></description>
     </item>
     
@@ -53,15 +206,6 @@
     </item>
     
     <item>
-      <title>Heroku</title>
-      <link>https://marcustxk.com/tags/heroku/</link>
-      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://marcustxk.com/tags/heroku/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Python</title>
       <link>https://marcustxk.com/tags/python/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
@@ -71,47 +215,11 @@
     </item>
     
     <item>
-      <title>Express</title>
-      <link>https://marcustxk.com/tags/express/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://marcustxk.com/tags/express/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Firebase</title>
       <link>https://marcustxk.com/tags/firebase/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://marcustxk.com/tags/firebase/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NodeJS</title>
-      <link>https://marcustxk.com/tags/nodejs/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://marcustxk.com/tags/nodejs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>React</title>
-      <link>https://marcustxk.com/tags/react/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://marcustxk.com/tags/react/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Typescript</title>
-      <link>https://marcustxk.com/tags/typescript/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://marcustxk.com/tags/typescript/</guid>
       <description></description>
     </item>
     
@@ -130,96 +238,6 @@
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://marcustxk.com/tags/rollup/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Docker</title>
-      <link>https://marcustxk.com/tags/docker/</link>
-      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
-      
-      <guid>https://marcustxk.com/tags/docker/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>JavaScript</title>
-      <link>https://marcustxk.com/tags/javascript/</link>
-      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
-      
-      <guid>https://marcustxk.com/tags/javascript/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>JSON</title>
-      <link>https://marcustxk.com/tags/json/</link>
-      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
-      
-      <guid>https://marcustxk.com/tags/json/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>node.js</title>
-      <link>https://marcustxk.com/tags/node.js/</link>
-      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
-      
-      <guid>https://marcustxk.com/tags/node.js/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>REST APIs</title>
-      <link>https://marcustxk.com/tags/rest-apis/</link>
-      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
-      
-      <guid>https://marcustxk.com/tags/rest-apis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Atlassian Ecosystem</title>
-      <link>https://marcustxk.com/tags/atlassian-ecosystem/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      
-      <guid>https://marcustxk.com/tags/atlassian-ecosystem/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>BOSH</title>
-      <link>https://marcustxk.com/tags/bosh/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      
-      <guid>https://marcustxk.com/tags/bosh/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DevOps</title>
-      <link>https://marcustxk.com/tags/devops/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      
-      <guid>https://marcustxk.com/tags/devops/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Java</title>
-      <link>https://marcustxk.com/tags/java/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      
-      <guid>https://marcustxk.com/tags/java/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>monit</title>
-      <link>https://marcustxk.com/tags/monit/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      
-      <guid>https://marcustxk.com/tags/monit/</guid>
       <description></description>
     </item>
     
@@ -265,96 +283,6 @@
       <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
       
       <guid>https://marcustxk.com/tags/web-development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Atlassian Developer Ecosystem</title>
-      <link>https://marcustxk.com/tags/atlassian-developer-ecosystem/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://marcustxk.com/tags/atlassian-developer-ecosystem/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bamboo</title>
-      <link>https://marcustxk.com/tags/bamboo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://marcustxk.com/tags/bamboo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>bash/shell</title>
-      <link>https://marcustxk.com/tags/bash/shell/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://marcustxk.com/tags/bash/shell/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bitbucket</title>
-      <link>https://marcustxk.com/tags/bitbucket/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://marcustxk.com/tags/bitbucket/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Confluence</title>
-      <link>https://marcustxk.com/tags/confluence/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://marcustxk.com/tags/confluence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>JIRA</title>
-      <link>https://marcustxk.com/tags/jira/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://marcustxk.com/tags/jira/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>jQuery</title>
-      <link>https://marcustxk.com/tags/jquery/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://marcustxk.com/tags/jquery/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Maven</title>
-      <link>https://marcustxk.com/tags/maven/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://marcustxk.com/tags/maven/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spring</title>
-      <link>https://marcustxk.com/tags/spring/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://marcustxk.com/tags/spring/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>xml/xslt</title>
-      <link>https://marcustxk.com/tags/xml/xslt/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://marcustxk.com/tags/xml/xslt/</guid>
       <description></description>
     </item>
     
