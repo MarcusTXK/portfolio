@@ -1,31 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Heroku on Marcus Tang Portfolio</title>
-    <link>https://marcustxk.com/tags/heroku/</link>
-    <description>Recent content in Heroku on Marcus Tang Portfolio</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://marcustxk.com/tags/heroku/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Google Developer Student Club - Project Siew Dai</title>
-      <link>https://marcustxk.com/projects/project-siew-dai/</link>
-      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://marcustxk.com/projects/project-siew-dai/</guid>
-      <description>Description Diabetes Singapore (DS) is a non-profit organisation focused on raising awareness and providing education, counselling and support to people with diabetes, their families and the community in order to empower them to lead a healthy and productive life. Today, DS runs two clinics and two mobile bus clinics that serve to provide care and education dedicated to Diabetes in Singapore.
-Problem Statement DS currently lacks a database and a corresponding database management system.</description>
-    </item>
-    
-    <item>
-      <title>4th Place, Ninja Van Code Dojo Hackathon 2022</title>
-      <link>https://marcustxk.com/awards/ninja-van-code-dojo-2022/</link>
-      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://marcustxk.com/awards/ninja-van-code-dojo-2022/</guid>
-      <description>Description Code Dojo was a 36 hour Hackathon where my team of 4 worked to innovate and prototype ideas that can improve logistics and Ninja Van&amp;rsquo;s operations and service quality. Ninja Van is a leading courier company in Singapore and across Southeast Asia, with more than 67,000 staff and delivery personnel and handles around 2 million parcels a day across Southeast Asia.
-Solution Ninja Scheduler is the bot designed for busy people who are unavailable to receive their package on the actual delivery day.</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Heroku on Marcus Tang's Portfolio</title><link>https://marcustxk.com/tags/heroku/</link><description>Recent content in Heroku on Marcus Tang's Portfolio</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://marcustxk.com/tags/heroku/index.xml" rel="self" type="application/rss+xml"/><item><title>Google Developer Student Club - Project Siew Dai</title><link>https://marcustxk.com/projects/project-siew-dai/</link><pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate><guid>https://marcustxk.com/projects/project-siew-dai/</guid><description>Description Diabetes Singapore (DS) is a non-profit organisation focused on raising awareness and providing education, counselling and support to people with diabetes, their families and the community in order to empower them to lead a healthy and productive life. Today, DS runs two clinics and two mobile bus clinics that serve to provide care and education dedicated to Diabetes in Singapore.
+Problem Statement DS currently lacks a database and a corresponding database management system.</description></item><item><title>4th Place, Ninja Van Code Dojo Hackathon 2022</title><link>https://marcustxk.com/awards/ninja-van-code-dojo-2022/</link><pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate><guid>https://marcustxk.com/awards/ninja-van-code-dojo-2022/</guid><description>Description Code Dojo was a 36 hour Hackathon where my team of 4 worked to innovate and prototype ideas that can improve logistics and Ninja Van&amp;rsquo;s operations and service quality. Ninja Van is a leading courier company in Singapore and across Southeast Asia, with more than 67,000 staff and delivery personnel and handles around 2 million parcels a day across Southeast Asia.
+Solution Ninja Scheduler is the bot designed for busy people who are unavailable to receive their package on the actual delivery day.</description></item></channel></rss>

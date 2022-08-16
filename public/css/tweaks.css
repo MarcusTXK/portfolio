@@ -80,21 +80,18 @@ div.skills-heading{
 }
 
 .tag:hover {
-  background-color: crimson;
+  background-color: #26619C;
   color: white;
 }
 
 .tag:hover::after {
-   border-left-color: crimson;
+   border-left-color: #26619C;
 }
 
 .project-fact{
   font-size:80%;
   font-style:italic;
 }
-
-
-
 
 .resume-section blockquote {
     border-left: 4px solid #26619C;

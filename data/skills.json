@@ -1,34 +1,52 @@
 [
   {
-      "grouping":"Languages",
-      "skills":["Java","TypeScript","JavaScript","Go","HTML","CSS"]
+    "grouping": "Languages",
+    "skills": [
+      "Java",
+      { "name": "TypeScript", "icon": "typescript-plain" },
+      "JavaScript",
+      "Go",
+      { "name": "HTML", "icon": "html5-plain" },
+      { "name": "CSS", "icon": "css3-plain" }
+    ]
   },
   {
-    "grouping":"Frameworks & Libraries",
-    "skills":["React","NextJS","Redux","Recoil","Spring","NodeJS","Express","NestJS","Elasticsearch"]
-},
-  {
-      "grouping":"Databases, ORM Frameworks & Database Version Control",
-      "skills":[
-        {"name":"MariaDB","icon":"msql_server"},
-        {"name":"PostgreSQL","icon":"database"},
-        {"name":"Sequelize"},
-        {"name":"Liquibase"},
-        {"name":"KnexJS"}
-      ]
+    "grouping": "Frameworks & Libraries",
+    "skills": [
+      "React",
+      { "name": "NextJS", "icon": "nextjs-plain" },
+      { "name": "Redux", "icon": "redux-plain" },
+      "Recoil",
+      { "name": "Spring", "icon": "spring-plain" },
+      "NodeJS",
+      { "name": "Express", "icon": "express-original" },
+      { "name": "NestJS", "icon": "nestjs-plain" },
+      "Elasticsearch"
+    ]
   },
   {
-    "grouping":"Containers & Cloud",
-      "skills":[
-          {"name":"Docker"},
-          {"name":"AWS"},
-          {"name":"Google Cloud"},
-          {"name":"Heroku"},          
-          {"name":"Netlify"}
-      ]
+    "grouping": "Databases, ORM Frameworks & Database Version Control",
+    "skills": [
+      { "name": "PostgreSQL", "icon": "postgresql-plain" },
+      "MariaDB",
+      { "name": "Sequelize", "icon": "sequelize-plain" },
+      "Liquibase",
+      "KnexJS"
+    ]
   },
   {
-    "grouping":"Tools",
-    "skills":["git","Activiti","Postman","Grafana"]
+    "grouping": "Containers & Cloud",
+    "skills": [
+      "Docker",
+      { "name": "Kubernetes", "icon": "kubernetes-plain" },
+      "AWS",
+      { "name": "Google Cloud", "icon": "googlecloud-plain" },
+      "Heroku",
+      "Netlify"
+    ]
+  },
+  {
+    "grouping": "Tools",
+    "skills": ["git", "Activiti", "Postman", "Grafana"]
   }
 ]
