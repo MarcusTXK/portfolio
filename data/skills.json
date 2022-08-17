@@ -2,10 +2,10 @@
   {
     "grouping": "Languages",
     "skills": [
-      "Java",
+      { "name": "Java", "icon": "java-plain" },
       { "name": "TypeScript", "icon": "typescript-plain" },
-      "JavaScript",
-      "Go",
+      { "name": "JavaScript", "icon": "javascript-plain" },
+      { "name": "Go", "icon": "go-plain" },
       { "name": "HTML", "icon": "html5-plain" },
       { "name": "CSS", "icon": "css3-plain" }
     ]
@@ -13,12 +13,13 @@
   {
     "grouping": "Frameworks & Libraries",
     "skills": [
-      "React",
+      { "name": "React", "icon": "react-plain" },
       { "name": "NextJS", "icon": "nextjs-plain" },
+      { "name": "Hugo", "icon": "hugo-plain" },
       { "name": "Redux", "icon": "redux-plain" },
       "Recoil",
       { "name": "Spring", "icon": "spring-plain" },
-      "NodeJS",
+      { "name": "NodeJS", "icon": "nodejs-plain" },
       { "name": "Express", "icon": "express-original" },
       { "name": "NestJS", "icon": "nestjs-plain" },
       "Elasticsearch"
@@ -37,11 +38,11 @@
   {
     "grouping": "Containers & Cloud",
     "skills": [
-      "Docker",
+      { "name": "Docker", "icon": "docker-plain" },
       { "name": "Kubernetes", "icon": "kubernetes-plain" },
-      "AWS",
+      { "name": "AWS", "icon": "amazonwebservices-plain" },
       { "name": "Google Cloud", "icon": "googlecloud-plain" },
-      "Heroku",
+      { "name": "Heroku", "icon": "heroku-plain" },
       "Netlify"
     ]
   },
