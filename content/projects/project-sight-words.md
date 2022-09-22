@@ -3,7 +3,7 @@
 "link":"https://drive.google.com/file/d/1MrdN1GFnKJMlJSwrpxC57M05aO6RBmTu/view?usp=sharing",
 "date": "2022-08-15",
 "image":"/img/sight-words-logo.png",
-"description":"Technology head of Project Sight Words, leading a team of 9 to make learning fun for dyslexic students with an online learning platform that is engaging and customised to their learning needs. The platform has two fronts, a progressive web app to teach students how to read and write through interactive learning, as well as a teacher portal to help educators manage their lessons and students progress more conveniently.",
+"description":"Technology head of Project Sight Words, leading a team of 10 to make learning fun for dyslexic students with an online learning platform that is engaging and customised to their learning needs. The platform has two fronts, a progressive web app to teach students how to read and write through interactive learning, as well as a teacher portal to help educators manage their lessons and students progress more conveniently.",
 "desciptionImage":"/img/sight-words-cover.png",
 "tags":[
 "Typescript",

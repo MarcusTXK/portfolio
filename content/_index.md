@@ -10,6 +10,6 @@ outputs:
   - json
 ---
 
-Eager to learn the best practices in the industry to design scalable and resilient solutions and collaborate with like-minded teammates to solve problems through high quality code.
+Eager to learn the best practices in the industry to design scalable and resilient solutions and collaborate with like-minded individuals to solve problems through high-quality code.
 
 Enthusiastic and hardworking; always willing to learn and challenge the status quo.
