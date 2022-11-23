@@ -12,7 +12,7 @@
 "Redis",
 "Socket.IO",
 "Docker",
-"Kubernetes",
+"Kubernetes"
 ],
 "featured":true
 }
@@ -37,18 +37,3 @@ For more details on design decisions, please check out the report [here](https:/
 We are using the Microservices architecture, employing a Domain Driven Design to decompose the application into supporting microservices. To identify the services, we decompose by resources – each microservice is responsible for all operations on a given entity in our application. For example, the User Service handles all aspects of managing the user and their account, while the Question Service manages the question bank and individual questions.
 
 To keep dependencies simple and manageable for the ease of development and debugging, we strived to make the services independent of each other and have a one way relationship. The services hence are all able to work with the frontend and have their own database supporting their storage needs. The interactions between the services are minimal as we decided to go for orchestration instead of choreography. The frontend, acting as the entry point of our user interaction, also serves as the service that talks to the rest of the services for information. For example, the frontend contacts the user service to acquire user information, which it relays to the rest of the services when necessary e.g. when the Matching service requires user information to perform matching.
-
-### Overall Technology Stack
-
-| Area                  | Technology                                                                                                                                                |
-| --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Frontend              | React<br>TailwindCSS<br>Chakra UI<br>Socket.IO<br>Axios<br>charaka-ui-markdown-renderer<br>PeerJS                                                         |
-| Backend               | Express.js, Node.js<br>Mongoose<br>Axios (Communication between microservices)<br>Sequelize<br>Socket.IO<br>Node Scheduler (Timer for matching)<br>PeerJS |
-| Database              | PostgreSQL, MongoDB, Redis                                                                                                                                |
-| Deployment            | GCP Kubernetes Engine                                                                                                                                     |
-| Pub-Sub Messaging     | Socket.io                                                                                                                                                 |
-| CI/CD                 | GitHub Actions                                                                                                                                            |
-| Tooling               | Eslint, Prettier                                                                                                                                          |
-| Orchestration Service | Docker-Compose, Kubernetes                                                                                                                                |
-| Project Management    | GitHub Issues & milestones                                                                                                                                |
-| Testing               | Jest, Mocha & Chai, Supertest                                                                                                                             |
