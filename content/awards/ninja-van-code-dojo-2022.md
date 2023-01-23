@@ -1,6 +1,6 @@
 {
 "title":"4th Place, Ninja Van Code Dojo Hackathon 2022",
-"link":"https://devpost.com/software/ratings",
+"link":"https://github.com/YHApple/ninja-scheduler",
 "date": "2022-02-01",
 "image":"/img/code-dojo-2022.png",
 "description":"Collaborated in a team of 4 and created a Telegram bot, “Ninja Scheduler” in 36 hours, enabling customers to upgrade delivery tiers and reschedule deliveries to reduce failed deliveries when customer not available, with payments made via Stripe (utlising Telegram Payments API)",

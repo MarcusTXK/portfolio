@@ -2,9 +2,9 @@
 "title":"“Top 8 Teams” Award Winner, Hack&Roll 2021",
 "link":"https://devpost.com/software/meetups-h90giq",
 "date": "2021-01-01",
-"image":"https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/325/861/datas/original.png",
+"image":"/img/hack-n-roll-2021-cover.jpg",
 "description":"Collaborated in a team of 4 in Singapore's largest student-run hackathon, with 473 participants and created a quick and easy rating system on on <a href='https://github.com/nusmodifications/nusmods'>NUSMods</a>, a student-run open source project, to allow students to save time and easily compare timetables to find common available slots to meet up.",
-"desciptionImage":"https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/325/862/datas/gallery.jpg",
+"desciptionImage":"/img/hack-n-roll-2021-inner.jpg",
 "tags":[
 "Typescript",
 "React"

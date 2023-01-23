@@ -2,9 +2,9 @@
 "title":"“Top 8 Teams” Award Winner, Hack&Roll 2022",
 "link":"https://devpost.com/software/ratings",
 "date": "2022-01-01",
-"image":"https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/784/419/datas/gallery.jpg",
+"image":"/img/hack-n-roll-2022-cover.jpg",
 "description":" Led a team of 4 in Singapore's largest student-run hackathon, with 532 participants and created a quick and easy rating system on on <a href='https://github.com/nusmodifications/nusmods'>NUSMods</a>, a student-run open source project, to encourage students to provide feedback on modules, aiding future students’ module planning efforts by being able to better grasp of the weekly workload, content difficulty and the best lecturers.",
-"desciptionImage":"https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/784/419/datas/gallery.jpg",
+"desciptionImage":"/img/hack-n-roll-2022-inner.jpg",
 "tags":[
 "Typescript",
 "React",
