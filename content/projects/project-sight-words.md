@@ -1,5 +1,5 @@
 {
-"title":"Google Developer Student Club - Project Sight Words [Ongoing]",
+"title":"Google Developer Student Club - Project Sight Words",
 "link":"https://drive.google.com/file/d/1MrdN1GFnKJMlJSwrpxC57M05aO6RBmTu/view?usp=sharing",
 "date": "2022-08-15",
 "image":"/img/sight-words-logo.png",

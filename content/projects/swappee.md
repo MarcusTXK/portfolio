@@ -2,9 +2,9 @@
 "title":"Swappee",
 "link":"https://github.com/MarcusTXK/Swappee",
 "date": "2022-08-01",
-"image":"https://user-images.githubusercontent.com/50147457/88007511-b6984780-cb40-11ea-95ba-f2bf51a58e1b.png",
+"image":"/img/swappee-cover.png",
 "description":"Architected and developed an online platform allowing users to search or list items to trade and facilitate the trading process, and mentored 2 other new developers to introduce them to software engineering and gain experience with a full stack project",
-"desciptionImage":"https://user-images.githubusercontent.com/50147457/129481860-ca8acbd8-bcc2-4ab5-b0a8-263f181f93eb.png",
+"desciptionImage":"/img/swappee-site.png",
 "tags":[
 "Java",
 "TypeScript",

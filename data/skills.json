@@ -6,6 +6,7 @@
       { "name": "TypeScript", "icon": "typescript-plain" },
       { "name": "JavaScript", "icon": "javascript-plain" },
       { "name": "Go", "icon": "go-plain" },
+      { "name": "Python", "icon": "python-plain" },
       { "name": "HTML", "icon": "html5-plain" },
       { "name": "CSS", "icon": "css3-plain" }
     ]
@@ -15,6 +16,8 @@
     "skills": [
       { "name": "React", "icon": "react-plain" },
       { "name": "NextJS", "icon": "nextjs-plain" },
+      { "name": "Flutter", "icon": "flutter-plain" },
+
       { "name": "Hugo", "icon": "hugo-plain" },
       { "name": "Redux", "icon": "redux-plain" },
       "Recoil",
@@ -32,7 +35,7 @@
       "MariaDB",
       { "name": "Sequelize", "icon": "sequelize-plain" },
       "Liquibase",
-      "KnexJS"
+      "TypeORM"
     ]
   },
   {
@@ -43,6 +46,7 @@
       { "name": "AWS", "icon": "amazonwebservices-plain" },
       { "name": "Google Cloud", "icon": "googlecloud-plain" },
       { "name": "Heroku", "icon": "heroku-plain" },
+      { "name": "AWS", "icon": "amazonwebservices-plain" },
       "Netlify"
     ]
   },

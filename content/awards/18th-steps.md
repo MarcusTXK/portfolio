@@ -2,9 +2,9 @@
 "title":"1st Place, 18th SoC Term Project Showcase (STePS)",
 "link":"https://uvents.nus.edu.sg/event/18th-steps/module/MIP-FYP-UR/project/1",
 "date": "2021-04-01",
-"image":"https://i.imgur.com/AlFWZZZ.gif",
+"image":"/img/18steps-cover.gif",
 "description":"Presented in NUS School of Computing’s largest event fair held every semester to showcase selected student’s projects. Designed and developed a new flexible module system on Source Academy, an open-source online environment to learn programming, utilised by 700+ NUS freshman yearly.",
-"desciptionImage":"https://i.imgur.com/AlFWZZZ.gif",
+"desciptionImage":"/img/18steps-cover.gif",
 "tags":[
 "Typescript",
 "React",

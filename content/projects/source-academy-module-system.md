@@ -4,7 +4,7 @@
 "date": "2021-04-01",
 "image":"/img/source-academy.png",
 "description":"Designed and developed a new flexible module system on Source Academy, an open-source online environment to learn programming, utilised by 700+ NUS freshman yearly.",
-"desciptionImage":"https://i.imgur.com/imbJTJM.gif",
+"desciptionImage":"/img/sourceAcademy-ui.gif",
 "tags":[
 "Typescript",
 "React",

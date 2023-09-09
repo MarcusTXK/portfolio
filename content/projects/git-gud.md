@@ -2,9 +2,9 @@
 "title":"gitGud",
 "link":"https://github.com/AY2122S1-CS2103T-W13-4/tp",
 "date": "2022-05-01",
-"image":"https://github.com/AY2122S1-CS2103T-W13-4/tp/raw/master/docs/images/gitgud.png",
+"image":"/img/gitgud-cover.png",
 "description":"gitGud is a desktop application for storing and managing your friends' gaming information and schedules. It is dedicated to gamers like you and provides a gamer-themed experience with a focus on increasing your efficiency through its typing-based interface.",
-"desciptionImage":"https://github.com/AY2122S1-CS2103T-W13-4/tp/blob/master/docs/images/ui-screenshots/Ui.png?raw=true",
+"desciptionImage":"/img/gitgud-ui.png",
 "tags":[
 "Java",
 "JavaFX"
